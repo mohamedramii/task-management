@@ -21,7 +21,7 @@
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
-## LOOM link
+## Loom link
 https://www.loom.com/share/0da7d33d8bc84d748d713f3a7c41293c
 ## Description
 
