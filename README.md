@@ -1,5 +1,5 @@
 
-[circleci-image]: https://drive.google.com/file/d/1NTzfFbvzVH97YPwMnXlO2WeoqQ7dRH9s/view
+ https://drive.google.com/file/d/1NTzfFbvzVH97YPwMnXlO2WeoqQ7dRH9s/view
 
 ## Loom link
 
